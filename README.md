@@ -3,7 +3,7 @@
 - 🌱 I’m currently trying to learn coding...
 - 💞️ I’m looking to collaborate on ... actually nothing :)
 - 📫 How to reach me adityapaul.vf.53@gmail.com ...
-- 😄 Pronouns: He/her
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Someone teach me coding for free
 
 <!---
